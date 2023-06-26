@@ -1,0 +1,10 @@
+{
+	"customPaths": [
+		"[assembly:/_pro/atampy26/dartgun_impact_effect_lethal.entitytemplate].pc_entitytype",
+		"[assembly:/_pro/atampy26/dartgun_impact_effect_lethal.entitytemplate].pc_entityblueprint"
+	],
+	"treeViewState": {
+		"0095DA0A05C46C4D": { "expandedNodes": ["f46254390eeb2fe8"], "selectedEntity": "6cf09e78421b8ffc" },
+		"00861A98A2FD2DEC": { "expandedNodes": ["713350e5708d9d5e"], "selectedEntity": "1fde97bda727b4f7" }
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"808ebdcb-aafe-496a-9541-5903bf03c12e": {
+		"ActorConfiguration": {
+			"MagazineConfigs": ["f3bf9b81-221e-4e2e-a073-f66de561bff8"]
+		},
+		"PrimaryConfiguration": {
+			"MagazineConfigs": ["f3bf9b81-221e-4e2e-a073-f66de561bff8"]
+		},
+		"SecondaryConfiguration": {
+			"MagazineConfigs": ["f3bf9b81-221e-4e2e-a073-f66de561bff8"]
+		},
+		"Name_LOC": "ui_atampy26_lethaldartgun_name",
+		"Description": "ui_atampy26_lethaldartgun_desc"
+	},
+	"f3bf9b81-221e-4e2e-a073-f66de561bff8": {
+		"AmmoConfig": "8fadd7f1-d827-4bd9-8b6e-39eb54d00562",
+		"MagazineSize": 1.0,
+		"Tags": ["poisondartmag"],
+		"MagazineIndex": 0.0
+	},
+	"8fadd7f1-d827-4bd9-8b6e-39eb54d00562": {
+		"AmmoImpactEffect": "42179508111174733",
+		"AmmoInFlightEffect": "65887227936409035",
+		"Behaviours": ["9eda2bf7-9510-47a7-b7cf-caaff62ef344"],
+		"GravityOverride": -9.8,
+		"ImpactEffects": ["eIE_AmmoImpactEffect"],
+		"Name": "Lethal Poison Darts",
+		"ScopeType": 0.0,
+		"UIKey": "Default"
+	}
+}

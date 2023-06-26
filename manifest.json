@@ -1,9 +1,16 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Test Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
-	"frameworkVersion": "2.25.1"
+	"id": "Atampy26.LethalDartGun",
+	"name": "Lethal Dart Gun",
+	"description": "Makes the Kalmer 2 lethal. Only works in offline mode.",
+	"authors": ["Atampy26"],
+	"frameworkVersion": "2.25.1",
+	"contentFolders": ["content"],
+	"localisation": {
+		"english": {
+			"UI_ATAMPY26_LETHALDARTGUN_NAME": "Keller 2",
+			"UI_ATAMPY26_LETHALDARTGUN_DESC": "South African produced dart gun. Will transmit a lethal poison to anyone it hits."
+		}
+	}
 }
